@@ -1,4 +1,4 @@
-{
+
   "name": "cinevault",
   "version": "0.1.0",
   "private": true,
@@ -33,6 +33,7 @@
     ],
     "parserOptions": {
       "parser": "@babel/eslint-parser"
+      "requireConfigFile": false
     },
     "rules": {}
   },
